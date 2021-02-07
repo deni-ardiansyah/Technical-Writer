@@ -4,7 +4,7 @@
 - klik installer yang telah di download dan klik 
 next
 
-![Tunggu proses selesai](https://github.com/deni-ardiansyah/Technical-Writer/img/proses-git.png)
+![Tunggu proses selesai](tree/master/img/proses-git.png)
 - setelah instalasi selesai ikuti langkah ini untuk mangguankan git
 
 <hr> 
