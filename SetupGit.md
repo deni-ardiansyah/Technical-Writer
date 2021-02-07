@@ -1,10 +1,10 @@
 # GIT Install
-- [Download Git] (https://git-scm.com/downloads)sesuai sistem oprasi 
+- [Download Git] (https://git-scm.com/downloads) sesuai sistem oprasi 
 ![Next](/img/install-git-2)
 - klik installer yang telah di download dan klik 
 next
 
-![Tunggu proses selesai](/img/proses-git.png)
+![Tunggu proses selesai](https://github.com/deni-ardiansyah/Technical-Writer/img/proses-git.png)
 - setelah instalasi selesai ikuti langkah ini untuk mangguankan git
 
 <hr> 
